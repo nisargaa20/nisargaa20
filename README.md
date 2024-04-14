@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargaa20&label=Profile%20views&color=0e75b6&style=flat" alt="nisargaa20" /> </p>
 
-- 🔭 I’m currently working on **mastering full stack development**
+- 🔭 I’m currently working on **mastering full stack development and artificial intelligence**
 
-- 🌱 I’m currently learning **react, node.js**
+- 🌱 I’m currently learning **react, node.js, deep learning**
 
 - 👯 I’m looking to collaborate on **projects from full-stack development to those involving artificial intelligence integration.**
 

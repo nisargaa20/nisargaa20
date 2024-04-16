@@ -1,15 +1,20 @@
 <h1 align="center">Hey there,👋 I'm Nisarga G R</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargaa20&label=Profile%20views&color=0e75b6&style=flat" alt="nisargaa20" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nisargaa20&label=Profile%20views&color=0e75b6&style=flat" alt="nisargaa20" />
+</p>
 
-- 🔭 I’m currently working on **mastering full stack development and artificial intelligence**
+- 🔭 I’m currently working on mastering **full stack development and artificial intelligence**.
 
-- 🌱 I’m currently learning **react, node.js, deep learning**
+- 🌱 I’m currently learning **React, Node.js, and deep learning**.
 
-- 👯 I’m looking to collaborate on **projects from full-stack development to those involving artificial intelligence integration.**
+- 👯 I’m looking to collaborate on projects from **full-stack development to those involving artificial intelligence integration**.
 
-- 📫 How to reach me **nisargagowda141@gmail.com**
+- 📫 How to reach me: **[nisargagowda141@gmail.com](mailto:nisargagowda141@gmail.com)**.
+
+- 🔗 Check out my portfolio: [Portfolio](https://nisargaa20.github.io/Portfolio/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **[nisargagowda141@gmail.com](mailto:nisargagowda141@gmail.com)**.
 
-- 🔗 Check out my portfolio: [Portfolio](https://nisargaa20.github.io/Portfolio/)
+- 🔗 Check out my portfolio: [Portfolio](https://nisargaweb.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
